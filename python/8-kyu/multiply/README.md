@@ -1,0 +1,1 @@
+<h2><a href=https://www.codewars.com/kata/50654ddff44f800200000004/train/python/6a697341b2a2c7dfaaf35ecb target="_blank">Multiply</a></h2><h3>8 kyu</h3><p>This code does not execute properly. Try to figure out why.</p>
