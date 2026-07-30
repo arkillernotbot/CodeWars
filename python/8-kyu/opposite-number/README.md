@@ -1,0 +1,1 @@
+<h2><a href=https://www.codewars.com/kata/56dec885c54a926dcd001095/train/python/6a69f5ab597525ccfb107729 target="_blank">Opposite number</a></h2><h3>8 kyu</h3><p>Very simple, given a number, find its opposite (additive inverse).</p><p>Examples:</p><pre><code>1: -114: -14-34: 34</code></pre>
